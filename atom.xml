@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Yinan XING</title>
+  <subtitle>壹说</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://xingyinan.com/"/>
+  <updated>2016-04-16T15:08:01.000Z</updated>
+  <id>http://xingyinan.com/</id>
+  
+  <author>
+    <name>xingyinan</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hello world</title>
+    <link href="http://xingyinan.com/2016/01/01/hello/"/>
+    <id>http://xingyinan.com/2016/01/01/hello/</id>
+    <published>2016-01-01T06:20:33.000Z</published>
+    <updated>2016-04-16T15:08:01.000Z</updated>
+    
+    <content type="html">&lt;p&gt;开始写博客，一家之言，取名「壹说」，意思是：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;我就这么一说，未必全，未必对，我且说，君且听。&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;开始写博客，一家之言，取名「壹说」，意思是：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;我就这么一说，未必全，未必对，我且说，君且听。&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
